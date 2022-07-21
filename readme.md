@@ -1,7 +1,7 @@
 # rjMCMC DFN modeling tutorial library
 
 This is a tutorial python library for the transdimensional DFN inversion method introduced in Somogyvari et al., (2017). 
-To access the tutorial please open the Tutorial script IPython notebook.\
+To access the tutorial please open the Tutorial script IPython notebook.
  
 
 # References
@@ -22,7 +22,7 @@ For conservative tracer tomography (CTT):
 ```
 \
 \
-For hydraulic tomography (HT):\
+For hydraulic tomography (HT):
 
 ```bibtex
 @article{ringel2019comparison,
