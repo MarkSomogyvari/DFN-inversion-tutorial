@@ -2,7 +2,7 @@
 
 This is a tutorial python library for the transdimensional DFN inversion method introduced in Somogyvari et al., (2017). 
 To access the tutorial please open the Tutorial script IPython notebook.\
-
+ 
 
 # References
 If you find this library useful, please consider using the following references in your work:\
@@ -19,7 +19,7 @@ For conservative tracer tomography (CTT):\
   publisher={Wiley Online Library}
 }
 \
-
+\
 For hydraulic tomography (HT):\
 \
 @article{ringel2019comparison,
