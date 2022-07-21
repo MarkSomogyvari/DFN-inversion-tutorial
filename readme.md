@@ -6,8 +6,8 @@ To access the tutorial please open the Tutorial script IPython notebook.\
 
 # References
 If you find this library useful, please consider using the following references in your work:\
-For conservative tracer tomography (CTT):\
-\
+For conservative tracer tomography (CTT):
+
 ```bibtex
 @article{somogyvari2017synthetic,
   title={Synthetic fracture network characterization with transdimensional inversion},
@@ -23,7 +23,7 @@ For conservative tracer tomography (CTT):\
 \
 \
 For hydraulic tomography (HT):\
-\
+
 ```bibtex
 @article{ringel2019comparison,
   title={Comparison of hydraulic and tracer tomography for discrete fracture network inversion},
